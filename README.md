@@ -13,7 +13,7 @@
 
 **Data Science Intern @ The Indian Express (_January 2024 - March 2024_)**
 - Implemented Django API to enable automated storage of Authors information.
-- Implemented algorithm for the recommender system for [loksatta.com](loksatta.com). Uses BERT to generate embedding for the
+- Implemented algorithm for the recommender system for [loksatta.com](https://www.loksatta.com/). Uses BERT to generate embedding for the
 news & predict the similar results.
 
 ## Projects
